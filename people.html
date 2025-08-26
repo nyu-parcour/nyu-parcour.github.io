@@ -1,0 +1,28 @@
+---
+layout: page
+title: People
+permalink: /people/
+---
+<div class="wrapper people">
+{%- for person in site.people -%}
+  <div class="person">
+    {% if person.image %}
+      {% assign image = person.image %}
+    {% else %}
+      {% assign image = person.name
+         | downcase
+         | replace: ' ', '_'
+         | append: '.jpg'
+      %}
+    {% endif %}
+    <img
+      src="{{ 'assets/people/' | append: image | relative_url }}"
+      alt="{{ 'An image of ' | append: person.name }}"/>
+    <div class="bio">
+      <h5>{{ person.name | escape }}</h5>
+      <sub>{{ person.position }}</sub>
+    </div>
+    <p>{{ person.content }}</p>
+  </div>
+{%- endfor -%}
+</div>
