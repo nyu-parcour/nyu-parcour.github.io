@@ -23,4 +23,16 @@
     object-fit: cover;
     border-radius: 10px;
   }
+
+  .personal-links {
+    ul {
+      list-style: none;
+      margin: 0 auto;
+    }
+
+    li {
+      display: inline;
+      margin-right: 0;
+    }
+  }
 }

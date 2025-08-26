@@ -31,8 +31,10 @@ plugins:
   - jekyll-feed
 
 collections:
-  - news
-  - people
+  people:
+    sort_by: position
+  news: 
+    sort_by: date
 
 minima:
   hide_site_feed_link: true

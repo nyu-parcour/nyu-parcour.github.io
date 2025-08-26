@@ -1,10 +1,10 @@
-<h2 class="post-list-heading">News</h2>
+<h3 class="post-list-heading">News</h3>
 
 <ul class="post-list">
   {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
   {%- for item in include.items -%}
   <li>
-    <span class="news-meta">{{ item.date | date: date_format }}</span>
+    <span class="post-meta">{{ item.date | date: date_format }}</span>
     {{ item.content }}
   </li>
   {%- endfor -%}

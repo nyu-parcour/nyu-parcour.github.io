@@ -21,6 +21,32 @@ permalink: /people/
     <div class="bio">
       <h5>{{ person.name | escape }}</h5>
       <sub>{{ person.position }}</sub>
+      {% if person.website or person.mastodon or person.x %}
+        <div class="personal-links">
+          <ul>
+          {% if person.website %}
+            <li>
+              <a href="{{ person.website }}" title="Personal Website" target="_blank"><span class="fa-solid fa-globe"></span></a>
+            </li>
+          {% endif %}
+          {% if person.bluesky %}
+            <li>
+              <a href="{{ 'https://bsky.app/profile/' | append: person.bluesky | append: '.bsky.social'}}" title="Bluesky account" target="_blank"><span class="fa-brands fa-bluesky"></span></a>
+            </li>
+          {% endif %}
+          {% if person.mastodon %}
+            <li>
+              <a href="{{ 'https://' | append: person.mastodon }}" title="Mastodon account" target="_blank"><span class="fa-brands fa-mastodon"></span></a>
+            </li>
+          {% endif %}
+          {% if person.x %}
+            <li>
+              <a href="{{ 'https://x.com/' | append: person.x }}" title="X account" target="_blank"><span class="fa-brands fa-x-twitter"></span></a>
+            </li>
+          {% endif %}
+          </ul>
+        </div>
+      {% endif %}
     </div>
     <p>{{ person.content }}</p>
   </div>
