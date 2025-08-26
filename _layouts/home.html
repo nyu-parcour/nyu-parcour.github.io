@@ -1,0 +1,14 @@
+---
+layout: base
+---
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.news.size > 0 -%}
+    {% include news.html items = site.news %}
+  {%- endif -%}
+</div>
