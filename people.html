@@ -22,7 +22,7 @@ permalink: /people/
     <div class="bio">
       <h5>{{ person.name | escape }}</h5>
       <sub>{{ person.position }}</sub>
-      {% if person.website or person.mastodon or person.x %}
+      {% if person.website or person.social_links.size > 0 %}
         <div class="personal-links">
           <ul>
           {% if person.website %}
@@ -30,21 +30,11 @@ permalink: /people/
               <a href="{{ person.website }}" title="Personal Website" target="_blank"><span class="fa-solid fa-globe"></span></a>
             </li>
           {% endif %}
-          {% if person.bluesky %}
+          {% for link in person.social_links %}
             <li>
-              <a href="{{ 'https://bsky.app/profile/' | append: person.bluesky | append: '.bsky.social'}}" title="Bluesky account" target="_blank"><span class="fa-brands fa-bluesky"></span></a>
+              <a href="{{ link.url }}" title="{{ link.title }}" target="_blank"><span class="fa-brands fa-{{ link.icon }}"></span></a>
             </li>
-          {% endif %}
-          {% if person.mastodon %}
-            <li>
-              <a href="{{ 'https://' | append: person.mastodon }}" title="Mastodon account" target="_blank"><span class="fa-brands fa-mastodon"></span></a>
-            </li>
-          {% endif %}
-          {% if person.x %}
-            <li>
-              <a href="{{ 'https://x.com/' | append: person.x }}" title="X account" target="_blank"><span class="fa-brands fa-x-twitter"></span></a>
-            </li>
-          {% endif %}
+          {% endfor %}
           </ul>
         </div>
       {% endif %}
