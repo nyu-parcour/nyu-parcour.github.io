@@ -13,4 +13,10 @@ social_links:
     icon: x-twitter
     url: "https://twitter.com/shwestrick"
 ---
-Cool guy he did some cool stuff
+Sam Westrick is an Assistant Professor of Computer Science at NYU Courant
+where he leads the [ParCour](https://nyu-parcour.github.io) group and also is a
+member of [ACSys](https://cs.nyu.edu/acsys/). His research focuses on
+making it simpler and safer to develop efficient and scalable parallel
+software.
+
+
