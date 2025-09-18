@@ -4,6 +4,9 @@ position: PhD Student
 image: svishnus.jpg
 website: "https://svishnus.github.io/"
 social_links:
+  - title: GitHub
+    icon: github
+    url: "https://github.com/svishnus"
   - title: Bluesky
     icon: bluesky
     url: "https://bsky.app/profile/svishnus.bsky.social"
