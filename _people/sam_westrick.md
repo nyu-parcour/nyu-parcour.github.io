@@ -18,5 +18,3 @@ where he leads the [ParCour](https://nyu-parcour.github.io) group and also is a
 member of [ACSys](https://cs.nyu.edu/acsys/). His research focuses on
 making it simpler and safer to develop efficient and scalable parallel
 software.
-
-
