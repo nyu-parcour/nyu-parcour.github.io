@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-5.539216 399.68493 339.58545 267.63777" width="339.58545" height="267.63777">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.18\n2025-09-19 15:15:40 +0000</metadata>
+  <g id="Canvas_1" stroke-dasharray="none" fill-opacity="1" fill="none" stroke="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" x="-5.539216" y="399.68493" width="339.58545" height="267.63777"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_187">
+        <g id="Line_210">
+          <line x1="1.9607843" y1="407.18493" x2="1.9607843" y2="657.1849" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+        </g>
+        <g id="Line_209">
+          <line x1="24.019608" y1="407.18493" x2="24.019608" y2="657.1849" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+        </g>
+        <g id="Line_208">
+          <path d="M 144.44502 547.1849 C 109.92497 538.1849 46.016227 551.1849 46.016227 602.1849 C 46.016227 653.1849 108.992 666.1849 143.97853 657.1849" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+        </g>
+        <g id="Line_207">
+          <path d="M 49.089554 409.8227 C 83.6096 400.8227 147.51835 413.8227 147.51835 464.8227 C 147.51835 515.8227 84.54258 528.8227 49.55604 519.8227" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+        </g>
+        <g id="Group_198">
+          <g id="Group_204">
+            <g id="Line_206">
+              <path d="M 166.78736 521.42093 C 163.38128 500.99693 168.30117 463.18493 187.60228 463.18493 C 206.9034 463.18493 211.82329 500.44493 208.4172 521.14493" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+            </g>
+            <g id="Line_205">
+              <path d="M 179.40858 499.2285 L 189.7365 499.4758 L 213.93674 499.06493" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+            </g>
+          </g>
+          <g id="Group_199">
+            <g id="Line_203">
+              <line x1="236.52038" y1="465.0531" x2="236.52038" y2="523.2891" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+            </g>
+            <g id="Line_202">
+              <path d="M 246.14814 465.68334 C 254.98843 463.533 268.28948 466.79454 268.28948 478.9798 C 268.28948 491.1651 255.22736 494.11563 246.2676 491.9653" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+            </g>
+            <g id="Line_201">
+              <line x1="246.14814" y1="502.406" x2="268.28948" y2="523.2891" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+            </g>
+            <g id="Line_200">
+              <path d="M 227.40556 465.0531 L 227.56736 513.6127 L 227.40556 523.2891" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_188">
+          <g id="Line_197">
+            <path d="M 272.28207 601.84555 C 275.68814 622.26955 275.62278 660.14235 252.13523 660.08155 C 228.6477 660.02074 227.24613 622.82155 230.6522 602.12155" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+          </g>
+          <g id="Graphic_194">
+            <ellipse cx="188.86035" cy="630.48406" rx="24.7396962954023" ry="30.7085597904965" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.152702"/>
+          </g>
+          <g id="Group_189">
+            <g id="Line_193">
+              <line x1="298.39268" y1="601.84555" x2="298.39268" y2="660.08155" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+            </g>
+            <g id="Line_192">
+              <path d="M 307.7649 602.4758 C 316.6052 600.32544 329.90623 603.3339 329.90623 615.5191 C 329.90623 627.7044 316.8441 630.9081 307.88436 628.7577" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+            </g>
+            <g id="Line_191">
+              <line x1="307.7649" y1="639.1984" x2="329.90623" y2="660.08155" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+            </g>
+            <g id="Line_190">
+              <line x1="289.59837" y1="601.84555" x2="289.59837" y2="660.08155" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

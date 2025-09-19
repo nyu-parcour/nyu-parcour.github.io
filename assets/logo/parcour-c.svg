@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="503.5 399.68493 339.58545 267.63777" width="339.58545" height="267.63777">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.18\n2025-09-19 15:15:40 +0000</metadata>
+  <g id="Canvas_1" stroke-dasharray="none" fill-opacity="1" fill="none" stroke="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" x="503.5" y="399.68493" width="339.58545" height="267.63777"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_260">
+        <line x1="511" y1="407.18493" x2="511" y2="657.1849" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+      </g>
+      <g id="Line_259">
+        <line x1="533.0588" y1="407.18493" x2="533.0588" y2="657.1849" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+      </g>
+      <g id="Line_258">
+        <path d="M 653.4842 547.1849 C 618.9642 538.1849 555.05544 551.1849 555.05544 602.1849 C 555.05544 653.1849 618.0312 666.1849 653.01775 657.1849" stroke="#58068b" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+      </g>
+      <g id="Line_257">
+        <path d="M 558.1288 409.8227 C 592.6488 400.8227 656.5576 413.8227 656.5576 464.8227 C 656.5576 515.8227 593.5818 528.8227 558.59526 519.8227" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+      </g>
+      <g id="Group_248">
+        <g id="Group_254">
+          <g id="Line_256">
+            <path d="M 675.8266 521.42093 C 672.4205 500.99693 677.3404 463.18493 696.6415 463.18493 C 715.9426 463.18493 720.8625 500.44493 717.4564 521.14493" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+          </g>
+          <g id="Line_255">
+            <path d="M 688.4478 499.2285 L 698.7757 499.4758 L 722.97596 499.06493" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+          </g>
+        </g>
+        <g id="Group_249">
+          <g id="Line_253">
+            <line x1="745.5596" y1="465.0531" x2="745.5596" y2="523.2891" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+          </g>
+          <g id="Line_252">
+            <path d="M 755.1874 465.68334 C 764.02765 463.533 777.3287 466.79454 777.3287 478.9798 C 777.3287 491.1651 764.2666 494.11563 755.3068 491.9653" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+          </g>
+          <g id="Line_251">
+            <line x1="755.1874" y1="502.406" x2="777.3287" y2="523.2891" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+          </g>
+          <g id="Line_250">
+            <path d="M 736.4448 465.0531 L 736.6066 513.6127 L 736.4448 523.2891" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_240">
+        <g id="Line_247">
+          <path d="M 781.3213 601.84555 C 784.7274 622.26955 784.662 660.14235 761.17445 660.08155 C 737.6869 660.02074 736.28535 622.82155 739.6914 602.12155" stroke="#58068b" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+        </g>
+        <g id="Graphic_246">
+          <ellipse cx="697.8996" cy="630.48406" rx="24.7396962954024" ry="30.7085597904965" stroke="#58068b" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.152702"/>
+        </g>
+        <g id="Group_241">
+          <g id="Line_245">
+            <line x1="807.4319" y1="601.84555" x2="807.4319" y2="660.08155" stroke="#58068b" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+          </g>
+          <g id="Line_244">
+            <path d="M 816.8041 602.4758 C 825.6444 600.32544 838.9454 603.3339 838.9454 615.5191 C 838.9454 627.7044 825.8833 630.9081 816.9236 628.7577" stroke="#58068b" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+          </g>
+          <g id="Line_243">
+            <line x1="816.8041" y1="639.1984" x2="838.9454" y2="660.08155" stroke="#58068b" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.28"/>
+          </g>
+          <g id="Line_242">
+            <line x1="798.6376" y1="601.84555" x2="798.6376" y2="660.08155" stroke="#58068b" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
