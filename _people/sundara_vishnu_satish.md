@@ -15,6 +15,5 @@ social_links:
     url: "https://mastodon.social/@svishnus"
 ---
 Vishnu is a PhD Student advised by Prof. Sam Westrick. His research is
-centered around developing programming languages techniques to enable *safer* and 
+centered around developing programming languages techniques to enable *safer* and
 *easier to reason* parallel programs without compromising performance.
-
