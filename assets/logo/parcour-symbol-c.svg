@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="503.5 891.1378 160.55756 267.63777" width="160.55756" height="267.63777">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.18\n2025-09-23 14:30:31 +0000</metadata>
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" x="503.5" y="891.1378" width="160.55756" height="267.63777"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Line_286">
+        <line x1="511" y1="898.6378" x2="511" y2="1148.6378" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+      </g>
+      <g id="Line_285">
+        <line x1="533.0588" y1="898.6378" x2="533.0588" y2="1148.6378" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+      </g>
+      <g id="Line_284">
+        <path d="M 653.4842 1038.6378 C 618.9642 1029.6378 555.05544 1042.6378 555.05544 1093.6378 C 555.05544 1144.6378 618.0312 1157.6378 653.01775 1148.6378" stroke="#58068b" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+      </g>
+      <g id="Line_283">
+        <path d="M 558.1288 901.2755 C 592.6488 892.2755 656.5576 905.2755 656.5576 956.2755 C 656.5576 1007.2755 593.5818 1020.2755 558.59526 1011.2755" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+      </g>
+    </g>
+  </g>
+</svg>
