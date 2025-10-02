@@ -1,6 +1,7 @@
 ---
 name: Darshan Dinesh Kumar
 position: Master's Student
+order: 4
 image: darshan_d.jpg
 website: "https://darshand15.github.io/"
 social_links:

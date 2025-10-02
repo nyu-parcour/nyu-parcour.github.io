@@ -31,7 +31,7 @@ plugins:
 
 collections:
   people:
-    sort_by: position
+    sort_by: order
   news: 
     sort_by: date
 

@@ -1,6 +1,7 @@
 ---
 name: Sam Westrick
 position: Faculty
+order: 1
 website: "https://cs.nyu.edu/~shw8119/"
 social_links:
   - title: Bluesky
