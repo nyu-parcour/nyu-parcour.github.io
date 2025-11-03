@@ -17,7 +17,7 @@ to discuss research related to parallel programming languages, systems, and algo
 | 10/16      | Cancelled (ICFP / SPLASH '25)|
 | 10/23      | Cancelled |
 | 10/30      | [Efficient tree-traversals: reconciling parallelism and dense data representations](https://dl.acm.org/doi/10.1145/3473596), [LoCal: a language for programs operating on serialized data](https://dl.acm.org/doi/abs/10.1145/3314221.3314631) |
-| 11/06      | TBD |
+| 11/06      | Previous week's papers continued with follow-up: [Garbage Collection for Mostly Serialized Heaps](https://dl.acm.org/doi/10.1145/3652024.3665512) |
 | 11/13      | TBD |
 | 11/27      | TBD |
 | 12/04      | TBD |
