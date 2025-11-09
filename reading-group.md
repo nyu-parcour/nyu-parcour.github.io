@@ -18,8 +18,9 @@ to discuss research related to parallel programming languages, systems, and algo
 | 10/23      | Cancelled |
 | 10/30      | [Efficient tree-traversals: reconciling parallelism and dense data representations](https://dl.acm.org/doi/10.1145/3473596), [LoCal: a language for programs operating on serialized data](https://dl.acm.org/doi/abs/10.1145/3314221.3314631) |
 | 11/06      | Previous week's papers continued with follow-up: [Garbage Collection for Mostly Serialized Heaps](https://dl.acm.org/doi/10.1145/3652024.3665512) |
-| 11/13      | TBD |
-| 11/27      | TBD |
+| 11/13      | Cancelled |
+| 11/20      | [Kill-safe synchronization abstractions](https://dl.acm.org/doi/10.1145/996893.996849) |
+| 11/27      |     |
 | 12/04      | TBD |
 | 12/11      | TBD |
 | 12/18      | TBD | 
