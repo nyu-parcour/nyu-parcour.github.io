@@ -20,7 +20,7 @@ to discuss research related to parallel programming languages, systems, and algo
 | 11/06      | Previous week's papers continued with follow-up: [Garbage Collection for Mostly Serialized Heaps](https://dl.acm.org/doi/10.1145/3652024.3665512) |
 | 11/13      | Cancelled |
 | 11/20      | [Kill-safe synchronization abstractions](https://dl.acm.org/doi/10.1145/996893.996849) |
-| 11/27      |     |
+| 11/27      |  Cancelled (Thanksgiving 🦃) |
 | 12/04      | TBD |
 | 12/11      | TBD |
 | 12/18      | TBD | 
