@@ -21,6 +21,6 @@ to discuss research related to parallel programming languages, systems, and algo
 | 11/13      | Cancelled |
 | 11/20      | [Kill-safe synchronization abstractions](https://dl.acm.org/doi/10.1145/996893.996849) |
 | 11/27      |  Cancelled (Thanksgiving 🦃) |
-| 12/04      | TBD |
-| 12/11      | TBD |
+| 12/04      | Cancelled |
+| 12/11      | Cancelled (Finals Week) |
 | 12/18      | TBD | 
