@@ -4,6 +4,31 @@ title: Reading Group
 permalink: /reading-group/
 ---
 
+## Spring 2026
+
+Meetings: weekly, every Thursday at 12:00pm.
+
+| Date | Leading | Paper(s) |
+|------|---------|----------|
+| 01/22 | Vishnu | |
+| 01/29 | TBD | |
+| 02/05 | TBD | |
+| 02/12 | TBD | |
+| 02/19 | TBD | |
+| 02/26 | TBD | |
+| 03/05 | TBD | |
+| 03/12 | TBD | |
+| 03/19 | TBD | |
+| 03/26 | TBD | |
+| 04/02 | TBD | |
+| 04/09 | TBD | |
+| 04/16 | TBD | |
+| 04/23 | TBD | |
+| 04/30 | TBD | |
+
+
+## Fall 2025
+
 Starting Fall 2025, we meet weekly every Thursday at 11:30 a.m. in Sam's office (Room 308, 60 FA)
 to discuss research related to parallel programming languages, systems, and algorithms.
 
