@@ -6,25 +6,25 @@ permalink: /reading-group/
 
 ## Spring 2026
 
-Meetings: weekly, every Thursday at 12:00pm.
+This semester we meet Thursdays at 12:00pm in 60FA 527.
 
 | Date | Leading | Paper(s) |
 |------|---------|----------|
-| 01/22 | Vishnu | |
-| 01/29 | TBD | |
-| 02/05 | TBD | |
-| 02/12 | TBD | |
-| 02/19 | TBD | |
-| 02/26 | TBD | |
-| 03/05 | TBD | |
-| 03/12 | TBD | |
-| 03/19 | TBD | |
-| 03/26 | TBD | |
-| 04/02 | TBD | |
-| 04/09 | TBD | |
-| 04/16 | TBD | |
-| 04/23 | TBD | |
-| 04/30 | TBD | |
+| Jan 22 | Vishnu | |
+| Jan 29 | TBD | |
+| Feb 5 | TBD | |
+| Feb 12 | TBD | |
+| Feb 19 | TBD | |
+| Feb 26 | TBD | |
+| Mar 5 | TBD | |
+| Mar 12 | --- | (Cancelled) |
+| Mar 19 | --- | (Cancelled -- Spring Break) |
+| Mar 26 | TBD | |
+| Apr 2 | TBD | |
+| Apr 9 | TBD | |
+| Apr 16 | TBD | |
+| Apr 23 | TBD | |
+| Apr 30 | TBD | |
 
 
 ## Fall 2025
