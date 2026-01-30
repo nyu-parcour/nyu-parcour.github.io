@@ -8,23 +8,23 @@ permalink: /reading-group/
 
 This semester we meet Thursdays at 12:00pm in 60FA 527.
 
-| Date   | Leading | Paper(s)                                                                                                               |
-| ------ | ------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Date   | Leading | Paper(s) |
+| ------ | ------- | - |
 | Jan 22 | Vishnu  | [Redwood: Flexible and Portable Heterogeneous Tree Traversal Workloads](https://ieeexplore.ieee.org/document/10158162) |
-| Jan 29 | TBD     |                                                                                                                        |
-| Feb 5  | TBD     |                                                                                                                        |
-| Feb 12 | TBD     |                                                                                                                        |
-| Feb 19 | TBD     |                                                                                                                        |
-| Feb 26 | TBD     |                                                                                                                        |
-| Mar 5  | TBD     |                                                                                                                        |
-| Mar 12 | ---     | (Cancelled)                                                                                                            |
-| Mar 19 | ---     | (Cancelled -- Spring Break)                                                                                            |
-| Mar 26 | TBD     |                                                                                                                        |
-| Apr 2  | TBD     |                                                                                                                        |
-| Apr 9  | TBD     |                                                                                                                        |
-| Apr 16 | TBD     |                                                                                                                        |
-| Apr 23 | TBD     |                                                                                                                        |
-| Apr 30 | TBD     |                                                                                                                        |
+| Jan 29 | Seong-Heon | [The Key to a Data Parallel Compiler](https://dl.acm.org/doi/10.1145/2935323.2935331) |
+| Feb 5  | Darshan | [Almost Deterministic Work Stealing](https://ieeexplore.ieee.org/document/10902306) |
+| Feb 12 | TBD | |
+| Feb 19 | TBD | |
+| Feb 26 | TBD | |
+| Mar 5  | TBD | |
+| Mar 12 | --- | (Cancelled) |
+| Mar 19 | --- | (Cancelled -- Spring Break) |
+| Mar 26 | TBD | |
+| Apr 2  | TBD | |
+| Apr 9  | TBD | |
+| Apr 16 | TBD | |
+| Apr 23 | TBD | |
+| Apr 30 | TBD | |
 
 ## Fall 2025
 
