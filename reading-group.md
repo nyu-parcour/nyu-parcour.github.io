@@ -13,7 +13,7 @@ This semester we meet Thursdays at 12:00pm in 60FA 527.
 | Jan 22 | Vishnu  | [Redwood: Flexible and Portable Heterogeneous Tree Traversal Workloads](https://ieeexplore.ieee.org/document/10158162) |
 | Jan 29 | Seong-Heon | [The Key to a Data Parallel Compiler](https://dl.acm.org/doi/10.1145/2935323.2935331) |
 | Feb 5  | Darshan | [Almost Deterministic Work Stealing](https://ieeexplore.ieee.org/document/10902306) |
-| Feb 12 | TBD | |
+| Feb 12 | Vishnu | [Scheduling Multithreaded Computations by Work Stealing](https://www.lri.fr/~cecile/ENSEIGNEMENT/IPAR/Exposes/cilk1.pdf) |
 | Feb 19 | TBD | |
 | Feb 26 | TBD | |
 | Mar 5  | TBD | |
