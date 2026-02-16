@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "ParCour",
+  "short_name": "ParCour",
   "icons": [
     {
       "src": "assets/favicon/web-app-manifest-192x192.png",
