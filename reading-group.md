@@ -8,23 +8,23 @@ permalink: /reading-group/
 
 This semester we meet Thursdays at 12:00pm in 60FA 527.
 
-| Date   | Leading | Paper(s) |
-| ------ | ------- | - |
-| Jan 22 | Vishnu  | [Redwood: Flexible and Portable Heterogeneous Tree Traversal Workloads](https://ieeexplore.ieee.org/document/10158162) |
-| Jan 29 | Seong-Heon | [The Key to a Data Parallel Compiler](https://dl.acm.org/doi/10.1145/2935323.2935331) |
-| Feb 5  | Darshan | [Almost Deterministic Work Stealing](https://ieeexplore.ieee.org/document/10902306) |
-| Feb 12 | --- | (cancelled) |
-| Feb 19 | Vishnu | [Scheduling Multithreaded Computations by Work Stealing](https://www.lri.fr/~cecile/ENSEIGNEMENT/IPAR/Exposes/cilk1.pdf) |
-| Feb 26 | TBD | |
-| Mar 5  | TBD | |
-| Mar 12 | --- | (Cancelled) |
-| Mar 19 | --- | (Cancelled -- Spring Break) |
-| Mar 26 | TBD | |
-| Apr 2  | TBD | |
-| Apr 9  | TBD | |
-| Apr 16 | TBD | |
-| Apr 23 | TBD | |
-| Apr 30 | TBD | |
+| Date   | Leading    | Paper(s)                                                                                                               |
+| ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Jan 22 | Vishnu     | [Redwood: Flexible and Portable Heterogeneous Tree Traversal Workloads](https://ieeexplore.ieee.org/document/10158162) |
+| Jan 29 | Seong-Heon | [The Key to a Data Parallel Compiler](https://dl.acm.org/doi/10.1145/2935323.2935331)                                  |
+| Feb 5  | Darshan    | [Almost Deterministic Work Stealing](https://ieeexplore.ieee.org/document/10902306)                                    |
+| Feb 12 | ---        | (cancelled)                                                                                                            |
+| Feb 19 | Vishnu     | [Scheduling Multithreaded Computations by Work Stealing](https://dl.acm.org/doi/10.1145/324133.324234)                 |
+| Feb 26 | Vishnu     | [Thread Scheduling for Multiprogrammed Multiprocesssors](https://dl.acm.org/doi/10.1145/277651.277678)                 |
+| Mar 5  | TBD        |                                                                                                                        |
+| Mar 12 | ---        | (Cancelled)                                                                                                            |
+| Mar 19 | ---        | (Cancelled -- Spring Break)                                                                                            |
+| Mar 26 | TBD        |                                                                                                                        |
+| Apr 2  | TBD        |                                                                                                                        |
+| Apr 9  | TBD        |                                                                                                                        |
+| Apr 16 | TBD        |                                                                                                                        |
+| Apr 23 | TBD        |                                                                                                                        |
+| Apr 30 | TBD        |                                                                                                                        |
 
 ## Fall 2025
 
