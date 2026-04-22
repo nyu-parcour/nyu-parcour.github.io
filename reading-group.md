@@ -16,14 +16,14 @@ This semester we meet Thursdays at 12:00pm in 60FA 527.
 | Feb 12 | ---        | (cancelled)                                                                                                            |
 | Feb 19 | Vishnu     | [Scheduling Multithreaded Computations by Work Stealing](https://dl.acm.org/doi/10.1145/324133.324234)                 |
 | Feb 26 | Vishnu     | [Thread Scheduling for Multiprogrammed Multiprocesssors](https://dl.acm.org/doi/10.1145/277651.277678)                 |
-| Mar 5  | TBD        |                                                                                                                        |
+| Mar 5  | TBD        | (Canceled)                                                                                                             |
 | Mar 12 | ---        | (Cancelled)                                                                                                            |
 | Mar 19 | ---        | (Cancelled -- Spring Break)                                                                                            |
-| Mar 26 | TBD        |                                                                                                                        |
-| Apr 2  | TBD        |                                                                                                                        |
-| Apr 9  | TBD        |                                                                                                                        |
-| Apr 16 | TBD        |                                                                                                                        |
-| Apr 23 | TBD        |                                                                                                                        |
+| Mar 26 | Seong-Heon | [A Calculus for Relaxed Memory](https://dl.acm.org/doi/pdf/10.1145/2676726.2676984)                                    |
+| Apr 2  | Darshan    | [Waste-Efficient Work Stealing](https://dl.acm.org/doi/pdf/10.1145/3774934.3786452)                                    |
+| Apr 9  | Sam        | [Space Efficient Execution of Deterministic Parallel Programs](https://ieeexplore.ieee.org/document/824415)            |
+| Apr 16 | Vishnu     | [Parallel k-Core Decomposition: Theory and Practice](https://dl.acm.org/doi/10.1145/3725332)                           |
+| Apr 23 | Sam        | [Ligra: A Lightweight Graph Processing Framework for Shared Memory](https://dl.acm.org/doi/10.1145/2517327.2442530)    |
 | Apr 30 | TBD        |                                                                                                                        |
 
 ## Fall 2025
