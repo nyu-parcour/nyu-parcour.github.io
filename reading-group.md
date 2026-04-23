@@ -13,12 +13,12 @@ This semester we meet Thursdays at 12:00pm in 60FA 527.
 | Jan 22 | Vishnu     | [Redwood: Flexible and Portable Heterogeneous Tree Traversal Workloads](https://ieeexplore.ieee.org/document/10158162) |
 | Jan 29 | Seong-Heon | [The Key to a Data Parallel Compiler](https://dl.acm.org/doi/10.1145/2935323.2935331)                                  |
 | Feb 5  | Darshan    | [Almost Deterministic Work Stealing](https://ieeexplore.ieee.org/document/10902306)                                    |
-| Feb 12 | ---        | (cancelled)                                                                                                            |
+| Feb 12 | ---        | Cancelled                                                                                                              |
 | Feb 19 | Vishnu     | [Scheduling Multithreaded Computations by Work Stealing](https://dl.acm.org/doi/10.1145/324133.324234)                 |
 | Feb 26 | Vishnu     | [Thread Scheduling for Multiprogrammed Multiprocesssors](https://dl.acm.org/doi/10.1145/277651.277678)                 |
-| Mar 5  | TBD        | (Canceled)                                                                                                             |
-| Mar 12 | ---        | (Cancelled)                                                                                                            |
-| Mar 19 | ---        | (Cancelled -- Spring Break)                                                                                            |
+| Mar 5  | ---        | Canceled                                                                                                               |
+| Mar 12 | ---        | Cancelled                                                                                                              |
+| Mar 19 | ---        | Cancelled -- Spring Break                                                                                              |
 | Mar 26 | Seong-Heon | [A Calculus for Relaxed Memory](https://dl.acm.org/doi/pdf/10.1145/2676726.2676984)                                    |
 | Apr 2  | Darshan    | [Waste-Efficient Work Stealing](https://dl.acm.org/doi/pdf/10.1145/3774934.3786452)                                    |
 | Apr 9  | Sam        | [Space Efficient Execution of Deterministic Parallel Programs](https://ieeexplore.ieee.org/document/824415)            |
