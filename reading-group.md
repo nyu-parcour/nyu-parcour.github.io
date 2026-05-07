@@ -24,7 +24,8 @@ This semester we meet Thursdays at 12:00pm in 60FA 527.
 | Apr 9  | Sam        | [Space Efficient Execution of Deterministic Parallel Programs](https://ieeexplore.ieee.org/document/824415)            |
 | Apr 16 | Vishnu     | [Parallel k-Core Decomposition: Theory and Practice](https://dl.acm.org/doi/10.1145/3725332)                           |
 | Apr 23 | Sam        | [Ligra: A Lightweight Graph Processing Framework for Shared Memory](https://dl.acm.org/doi/10.1145/2517327.2442530)    |
-| Apr 30 | TBD        |                                                                                                                        |
+| Apr 30 | --- | Cancelled |
+| May 7 | Seong-Heon | [cuJSON: A Highly Parallel JSON Parser for GPUs](https://dl.acm.org/doi/10.1145/3760250.3762222) |
 
 ## Fall 2025
 
