@@ -1,8 +1,10 @@
 ---
 layout: home
+title: ParCour Research Group
+description: "ParCour is a research group in the CS Department at NYU Courant studying programming languages, parallel computing, compilers, runtime systems, and parallel algorithms."
 ---
 
-![image](/assets/logo/parcour-c.svg){: style="float:right;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px"}
+![ParCour logo](/assets/logo/parcour-c.svg){: style="float:right;height:150px;margin-left:20px;margin-right:20px;margin-bottom:10px"}
 
 ParCour is a research group in
 the [Computer Science Department](https://cs.nyu.edu/) at

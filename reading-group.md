@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reading Group
+description: "ParCour Reading Group: Weekly discussions on parallel programming languages, systems, and algorithms."
 permalink: /reading-group/
 ---
 
