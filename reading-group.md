@@ -6,19 +6,19 @@ permalink: /reading-group/
 ## Summer 2026
 This summer, we meet Tuesdays at 11:00 (Location TBD).
 
-| Date   | Leading    | Paper(s)                                                                                                               |
-| ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Jun 16 | TBD        |                                                                                                                        |
-| Jun 23 | TBD        |                                                                                                                        |
-| Jun 30 | TBD        |                                                                                                                        |
-| Jul 7  | ---        | Cancelled -- SPAA 2026                                                                                                 |
-| Jul 14 | TBD        |                                                                                                                        |
-| Jul 21 | TBD        |                                                                                                                        |
-| Jul 28 | TBD        |                                                                                                                        |
-| Aug 4  | TBD        |                                                                                                                        |
-| Aug 11 | TBD        |                                                                                                                        |
-| Aug 18 | TBD        |                                                                                                                        |
-| Aug 25 | TBD        |                                                                                                                        |
+| Date | Leading | Paper(s) |
+| --- | --- | --- |
+| Jun 16 | TBD | |
+| Jun 23 | TBD | |
+| Jun 30 | TBD | |
+| Jul 7 | - | Cancelled -- SPAA 2026 |
+| Jul 14 | TBD | |
+| Jul 21 | TBD | |
+| Jul 28 | TBD | |
+| Aug 4 | TBD | |
+| Aug 11 | TBD | |
+| Aug 18 | TBD | |
+| Aug 25 | TBD | |
 
 ## Spring 2026
 
