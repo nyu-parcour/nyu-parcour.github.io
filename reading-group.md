@@ -3,10 +3,24 @@ layout: page
 title: Reading Group
 permalink: /reading-group/
 ---
+## Summer 2026
+This summer, we meet Tuesdays at 11:00 (Location TBD).
+| Date   | Leading    | Paper(s)                                                                                                               |
+| ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Jun 16 | TBD        |                                                                                                                        |
+| Jun 23 | TBD        |                                                                                                                        |
+| Jun 30 | TBD        |                                                                                                                        |
+| Jul 7  | ---        | Cancelled -- SPAA 2026                                                                                                 |
+| Jul 14 | TBD        |                                                                                                                        |
+| Jul 21 | TBD        |                                                                                                                        |
+| Jul 28 | TBD        |                                                                                                                        |
+| Aug 4  | TBD        |                                                                                                                        |
+| Aug 11 | TBD        |                                                                                                                        |
+| Aug 18 | TBD        |                                                                                                                        |
+| Aug 25 | TBD        |                                                                                                                        |
 
 ## Spring 2026
 
-This semester we meet Thursdays at 12:00pm in 60FA 527.
 
 | Date   | Leading    | Paper(s)                                                                                                               |
 | ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------- |
