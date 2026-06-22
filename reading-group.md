@@ -8,7 +8,7 @@ This summer, we meet Tuesdays at 11:00 (Location TBD).
 
 | Date | Leading | Paper(s) |
 | --- | --- | --- |
-| Jun 16 | TBD | |
+| Jun 16 | Seong-Heon | [The future(s) of shared data structures](https://dl.acm.org/doi/10.1145/2611462.2611496) |
 | Jun 23 | TBD | |
 | Jun 30 | TBD | |
 | Jul 7 | - | Cancelled -- SPAA 2026 |
