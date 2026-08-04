@@ -15,8 +15,8 @@ This summer, we meet Tuesdays at 11:00 (Location TBD).
 | Jul 14 | Seong-Heon | [Parallel type-checking with haskell using saturating LVars and stream generators](https://dl.acm.org/doi/10.1145/2851141.2851142) |
 | Jul 21 | Cancelled | |
 | Jul 28 | Cancelled | |
-| Aug 4 | Vishnu | [Opportunistically Parallel Lambda Calculus](https://dl.acm.org/doi/10.1145/3763143) |
-| Aug 11 | TBD | |
+| Aug 4 | TBD | |
+| Aug 11 | Vishnu | [Big Atomics: Non-Blocking Algorithms with a Direct Fast Path](https://dl.acm.org/doi/10.1145/3816782.3819220) |
 | Aug 18 | TBD | |
 | Aug 25 | TBD | |
 
