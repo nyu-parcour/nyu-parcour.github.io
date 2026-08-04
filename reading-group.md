@@ -12,10 +12,10 @@ This summer, we meet Tuesdays at 11:00 (Location TBD).
 | Jun 23 | - | [Parallel trace register allocation](https://dl.acm.org/doi/10.1145/3237009.3237010) |
 | Jun 30 | - | [Halide](https://dl.acm.org/doi/10.1145/2491956.2462176) |
 | Jul 7 | - | Cancelled -- SPAA 2026 |
-| Jul 14 | TBD | |
-| Jul 21 | TBD | |
-| Jul 28 | TBD | |
-| Aug 4 | TBD | |
+| Jul 14 | Seong-Heon | [Parallel type-checking with haskell using saturating LVars and stream generators](https://dl.acm.org/doi/10.1145/2851141.2851142) |
+| Jul 21 | Cancelled | |
+| Jul 28 | Cancelled | |
+| Aug 4 | Vishnu | [Opportunistically Parallel Lambda Calculus](https://dl.acm.org/doi/10.1145/3763143) |
 | Aug 11 | TBD | |
 | Aug 18 | TBD | |
 | Aug 25 | TBD | |
