@@ -5,13 +5,21 @@ layout: base
   overrides minima's home.html
   * removes "posts" (blog posts)
   * adds "news"
+  * adds the group logo alongside the intro text
 -->
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  <div class="home-intro">
+    <img class="home-intro-logo"
+         src="{{ '/assets/logo/parcour-c.svg' | relative_url }}"
+         alt="ParCour logo"/>
+    <div class="home-intro-text">
+      {{ content }}
+    </div>
+  </div>
 
   {%- if site.news.size > 0 -%}
     {% include news.html items = site.news %}
