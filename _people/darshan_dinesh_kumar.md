@@ -1,7 +1,8 @@
 ---
 name: Darshan Dinesh Kumar
-position: Master's Student
+position: Master's Alumnus
 order: 4
+alumni: true
 image: darshan_d.jpg
 website: "https://darshand15.github.io/"
 social_links:
@@ -9,4 +10,6 @@ social_links:
     icon: github
     url: "https://github.com/darshand15"
 ---
-Darshan is a Master’s student advised by Prof. Sam Westrick. His research focuses on runtime schedulers for parallel languages and parallel cost models for program analysis, with broader interests in parallel computing, programming languages, and compilers.
+Darshan graduated from NYU in 2026 and completed a master's thesis:
+*Performance Analysis and Debugging of Parallel Programs within Lightweight
+Scheduling Frameworks*. He currently works at Nvidia.
