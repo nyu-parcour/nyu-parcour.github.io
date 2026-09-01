@@ -72,3 +72,14 @@
     }
   }
 }
+
+/* mobile nav menu icon (hamburger / close)
+ * minima hardcodes font-family "Font Awesome 6 Free" for the ::before glyph,
+ * but the theme footer loads Font Awesome from the CDN at @latest, which is
+ * now v7 and no longer ships a "Font Awesome 6 Free" alias -- so the icon
+ * rendered as a blank box. List every family name FA has used so it keeps
+ * working regardless of which major version the CDN serves. */
+.site-nav .menu-icon::before {
+  font-family: "Font Awesome 7 Free", "Font Awesome 6 Free",
+               "Font Awesome 5 Free", "FontAwesome";
+}
