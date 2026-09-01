@@ -3,22 +3,46 @@ layout: page
 title: Reading Group
 permalink: /reading-group/
 ---
-## Summer 2026
-This summer, we meet Tuesdays at 11:00 (Location TBD).
+# Fall 2026
+
+This fall, we meet Tuesdays at 11:00 (Location TBD).
 
 | Date | Leading | Paper(s) |
-| --- | --- | --- |
+| -----  | --- | --- |
+| Sep 8 | ---- | --- |
+| Sep 15 | ---- | --- |
+| Sep 22 | ---- | --- |
+| Sep 29 | ---- | --- |
+| Oct 6 | ---- | --- |
+| Oct 13 | ---- | --- |
+| Oct 20 | ---- | --- |
+| Oct 27 | ---- | --- |
+| Nov 3 | ---- | --- |
+| Nov 10 | ---- | --- |
+| Nov 17 | ---- | --- |
+| Nov 24 | ---- | --- |
+| Dec 1 | ---- | --- |
+| Dec 8 | ---- | --- |
+| Dec 15 | ---- | --- |
+
+
+
+## Summer 2026
+This summer, we meet Tuesdays at 11:00 (Room 202, 60 FA).
+
+| Date | Leading | Paper(s) |
+| -----  | --- | --- |
 | Jun 16 | Seong-Heon | [The future(s) of shared data structures](https://dl.acm.org/doi/10.1145/2611462.2611496) |
 | Jun 23 | - | [Parallel trace register allocation](https://dl.acm.org/doi/10.1145/3237009.3237010) |
 | Jun 30 | - | [Halide](https://dl.acm.org/doi/10.1145/2491956.2462176) |
-| Jul 7 | - | Cancelled -- SPAA 2026 |
+| Jul 7  | - | Cancelled -- SPAA 2026 |
 | Jul 14 | Seong-Heon | [Parallel type-checking with haskell using saturating LVars and stream generators](https://dl.acm.org/doi/10.1145/2851141.2851142) |
 | Jul 21 | Cancelled | |
 | Jul 28 | Cancelled | |
-| Aug 4 | TBD | |
-| Aug 11 | Vishnu | [Big Atomics: Non-Blocking Algorithms with a Direct Fast Path](https://dl.acm.org/doi/10.1145/3816782.3819220) |
-| Aug 18 | TBD | |
-| Aug 25 | TBD | |
+| Aug 4  | Cancelled | |
+| Aug 11 | Cancelled | |
+| Aug 18 | Cancelled | |
+| Aug 25 | Cancelled | |
 
 ## Spring 2026
 
