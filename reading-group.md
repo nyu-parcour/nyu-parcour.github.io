@@ -3,46 +3,46 @@ layout: page
 title: Reading Group
 permalink: /reading-group/
 ---
+
 # Fall 2026
 
-This fall, we meet Tuesdays at 11:00 (Location TBD).
+This fall, we meet Tuesdays at 11:00 (Room 165, 60 FA).
 
-| Date | Leading | Paper(s) |
-| -----  | --- | --- |
-| Sep 8 | ---- | --- |
-| Sep 15 | ---- | --- |
-| Sep 22 | ---- | --- |
-| Sep 29 | ---- | --- |
-| Oct 6 | ---- | --- |
-| Oct 13 | ---- | --- |
-| Oct 20 | ---- | --- |
-| Oct 27 | ---- | --- |
-| Nov 3 | ---- | --- |
-| Nov 10 | ---- | --- |
-| Nov 17 | ---- | --- |
-| Nov 24 | ---- | --- |
-| Dec 1 | ---- | --- |
-| Dec 8 | ---- | --- |
-| Dec 15 | ---- | --- |
-
-
+| Date   | Leading | Paper(s) |
+| ------ | ------- | -------- |
+| Sep 8  | ----    | ---      |
+| Sep 15 | ----    | ---      |
+| Sep 22 | ----    | ---      |
+| Sep 29 | ----    | ---      |
+| Oct 6  | ----    | ---      |
+| Oct 13 | ----    | ---      |
+| Oct 20 | ----    | ---      |
+| Oct 27 | ----    | ---      |
+| Nov 3  | ----    | ---      |
+| Nov 10 | ----    | ---      |
+| Nov 17 | ----    | ---      |
+| Nov 24 | ----    | ---      |
+| Dec 1  | ----    | ---      |
+| Dec 8  | ----    | ---      |
+| Dec 15 | ----    | ---      |
 
 ## Summer 2026
+
 This summer, we meet Tuesdays at 11:00 (Room 202, 60 FA).
 
-| Date | Leading | Paper(s) |
-| -----  | --- | --- |
-| Jun 16 | Seong-Heon | [The future(s) of shared data structures](https://dl.acm.org/doi/10.1145/2611462.2611496) |
-| Jun 23 | - | [Parallel trace register allocation](https://dl.acm.org/doi/10.1145/3237009.3237010) |
-| Jun 30 | - | [Halide](https://dl.acm.org/doi/10.1145/2491956.2462176) |
-| Jul 7  | - | Cancelled -- SPAA 2026 |
+| Date   | Leading    | Paper(s)                                                                                                                           |
+| ------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Jun 16 | Seong-Heon | [The future(s) of shared data structures](https://dl.acm.org/doi/10.1145/2611462.2611496)                                          |
+| Jun 23 | -          | [Parallel trace register allocation](https://dl.acm.org/doi/10.1145/3237009.3237010)                                               |
+| Jun 30 | -          | [Halide](https://dl.acm.org/doi/10.1145/2491956.2462176)                                                                           |
+| Jul 7  | -          | Cancelled -- SPAA 2026                                                                                                             |
 | Jul 14 | Seong-Heon | [Parallel type-checking with haskell using saturating LVars and stream generators](https://dl.acm.org/doi/10.1145/2851141.2851142) |
-| Jul 21 | Cancelled | |
-| Jul 28 | Cancelled | |
-| Aug 4  | Cancelled | |
-| Aug 11 | Cancelled | |
-| Aug 18 | Cancelled | |
-| Aug 25 | Cancelled | |
+| Jul 21 | Cancelled  |                                                                                                                                    |
+| Jul 28 | Cancelled  |                                                                                                                                    |
+| Aug 4  | Cancelled  |                                                                                                                                    |
+| Aug 11 | Cancelled  |                                                                                                                                    |
+| Aug 18 | Cancelled  |                                                                                                                                    |
+| Aug 25 | Cancelled  |                                                                                                                                    |
 
 ## Spring 2026
 
@@ -62,8 +62,8 @@ This summer, we meet Tuesdays at 11:00 (Room 202, 60 FA).
 | Apr 9  | Sam        | [Space Efficient Execution of Deterministic Parallel Programs](https://ieeexplore.ieee.org/document/824415)            |
 | Apr 16 | Vishnu     | [Parallel k-Core Decomposition: Theory and Practice](https://dl.acm.org/doi/10.1145/3725332)                           |
 | Apr 23 | Sam        | [Ligra: A Lightweight Graph Processing Framework for Shared Memory](https://dl.acm.org/doi/10.1145/2517327.2442530)    |
-| Apr 30 | --- | Cancelled |
-| May 7 | Seong-Heon | [cuJSON: A Highly Parallel JSON Parser for GPUs](https://dl.acm.org/doi/10.1145/3760250.3762222) |
+| Apr 30 | ---        | Cancelled                                                                                                              |
+| May 7  | Seong-Heon | [cuJSON: A Highly Parallel JSON Parser for GPUs](https://dl.acm.org/doi/10.1145/3760250.3762222)                       |
 
 ## Fall 2025
 
