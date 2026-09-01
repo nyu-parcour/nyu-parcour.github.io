@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 228 228" width="1200" height="1200">
+  <defs/>
+  <!-- social-media preview image: compact symbol on a white square with a 10% margin.
+       Rasterize to PNG with: qlmanage -t -s 1200 -o . parcour-social.svg -->
+  <rect x="0" y="0" width="228" height="228" fill="#ffffff"/>
+  <g transform="translate(19 19) translate(-297.36223 -1249.251)">
+  <metadata> Produced by OmniGraffle 7.18\n2025-09-23 15:55:01 +0000</metadata>
+  <g id="Canvas_1" fill="none" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_292"/>
+      <g id="Group_300">
+        <g id="Line_290">
+          <line x1="315" y1="1262" x2="315" y2="1426.3189" stroke="#398eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+        </g>
+        <g id="Line_297">
+          <line x1="315" y1="1262" x2="315" y2="1426.3189" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+        </g>
+      </g>
+      <g id="Group_301">
+        <g id="Line_289">
+          <line x1="344" y1="1262" x2="344" y2="1426.3189" stroke="#398eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+        </g>
+        <g id="Line_296">
+          <line x1="344" y1="1262" x2="344" y2="1426.3189" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+        </g>
+      </g>
+      <g id="Group_303">
+        <g id="Line_293">
+          <path d="M 471.8588 1314.8254 C 437.33875 1305.8254 373.43 1318.8254 373.43 1369.8254 C 373.43 1420.8254 436.4058 1433.8254 471.3923 1424.8254" stroke="#a554e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+        </g>
+        <g id="Line_295">
+          <path d="M 471.8588 1314.8254 C 437.33875 1305.8254 373.43 1318.8254 373.43 1369.8254 C 373.43 1420.8254 436.4058 1433.8254 471.3923 1424.8254" stroke="#58068b" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+        </g>
+      </g>
+      <g id="Group_302">
+        <g id="Line_287">
+          <path d="M 373 1263.9567 C 407.52005 1254.9567 471.8588 1266.4497 471.8588 1317.4497 C 471.8588 1368.4497 408.45302 1382.9567 373.4665 1373.9567" stroke="#398eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+        </g>
+        <g id="Line_294">
+          <path d="M 373 1263.9567 C 407.52005 1254.9567 471.8588 1266.4497 471.8588 1317.4497 C 471.8588 1368.4497 408.45302 1382.9567 373.4665 1373.9567" stroke="#006fb9" stroke-linecap="round" stroke-linejoin="round" stroke-width="15"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  </g>
+</svg>

@@ -35,6 +35,28 @@ collections:
   news: 
     sort_by: date
 
+# Social media preview (Open Graph / Twitter card), emitted by jekyll-seo-tag.
+# `image` is applied as a default to every page (not collection documents,
+# whose `image` key is the person's photo). The PNG is the compact symbol on a
+# white 1200x1200 square with a small margin, rasterized from
+# assets/logo/parcour-social.svg (see the comment in that file).
+# `twitter.card: summary` renders the image as a small square icon beside the
+# title on X/Twitter rather than a cropped wide banner. (Set per page here, not
+# as a site-level `twitter:` key, because the latter also emits an empty
+# `twitter:site` handle.)
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      image:
+        path: /assets/logo/parcour-social.png
+        width: 1200
+        height: 1200
+        alt: ParCour logo
+      twitter:
+        card: summary
+
 minima:
   hide_site_feed_link: true
   social_links:
