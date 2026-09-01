@@ -42,6 +42,20 @@ minima:
       icon: github
       url: "https://github.com/nyu-parcour"
 
+# Sass deprecation warnings.
+# Every deprecation warning at build time comes from the minima theme's own
+# Sass (`@import`, and `darken()`/`lighten()` in its skins), not from this
+# site. Upstream minima has not migrated yet, so silence:
+#   * quiet_deps: warnings from stylesheets loaded via load paths (the theme
+#     and _sass/), and
+#   * import: the two `@import` rules in the theme's root assets/css/style.scss,
+#     which quiet_deps does not cover.
+# Warnings for deprecated Sass in this site's own files still show.
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
