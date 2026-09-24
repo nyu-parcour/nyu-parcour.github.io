@@ -2,6 +2,8 @@
 name: Luka Govedič
 position: PhD Student 
 website: "https://lukagovedic.com"
+order: 6
+image: luka.jpg
 social_links:
   - title: GitHub
     url: "https://www.github.com/ProExpertProg"
