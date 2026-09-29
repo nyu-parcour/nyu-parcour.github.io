@@ -13,7 +13,7 @@ This fall, we meet Tuesdays at 11:00 (Room 165, 60 FA).
 | Sep 8  | Vishnu  | [Big Atomics: Non-Blocking Algorithms with a Direct Fast Path](https://dl.acm.org/doi/10.1145/3816782.3819220) |
 | Sep 15 | Atharva | [Parallel Metric Skip Lists and Nearest Neighbor Search](https://arxiv.org/abs/2606.03129)                     |
 | Sep 22 | Ariel   | [A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators](https://arxiv.org/abs/2608.13757)  |
-| Sep 29 | ----    | ---                                                                                                            |
+| Sep 29 | -       | [A Practical Solution to the Cactus Stack Problem](https://dl.acm.org/doi/10.1145/2935764.2935787)             |
 | Oct 6  | ----    | ---                                                                                                            |
 | Oct 13 | ----    | ---                                                                                                            |
 | Oct 20 | ----    | ---                                                                                                            |
