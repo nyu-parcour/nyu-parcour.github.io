@@ -14,9 +14,9 @@ This fall, we meet Tuesdays at 11:00 (Room 165, 60 FA).
 | Sep 15 | Atharva | [Parallel Metric Skip Lists and Nearest Neighbor Search](https://arxiv.org/abs/2606.03129)                     |
 | Sep 22 | Ariel   | [A Barrier-Free Synchronization Algorithm for Multi-Engine AI Accelerators](https://arxiv.org/abs/2608.13757)  |
 | Sep 29 | -       | [A Practical Solution to the Cactus Stack Problem](https://dl.acm.org/doi/10.1145/2935764.2935787)             |
-| Oct 6  | ----    | ---                                                                                                            |
-| Oct 13 | ----    | ---                                                                                                            |
-| Oct 20 | ----    | ---                                                                                                            |
+| Oct 6  | Luka    | [Event Tensor: A Unified Abstraction for Comipling Dynamic Megakernel](https://arxiv.org/abs/2604.13327)       |
+| Oct 13 | Seong-Heon    | [A Verified Parallel Scheduler for OCaml 5](https://dl.acm.org/doi/10.1145/3808337)                      |
+| Oct 20 | ----    | [Scheduling parallel programs by work stealing with private deques](https://dl.acm.org/doi/10.1145/2442516.2442538)   |
 | Oct 27 | ----    | ---                                                                                                            |
 | Nov 3  | ----    | ---                                                                                                            |
 | Nov 10 | ----    | ---                                                                                                            |
