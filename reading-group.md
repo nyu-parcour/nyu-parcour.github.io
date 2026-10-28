@@ -18,7 +18,7 @@ This fall, we meet Tuesdays at 11:00 (Room 165, 60 FA).
 | Oct 13 | Seong-Heon | [A Verified Parallel Scheduler for OCaml 5](https://dl.acm.org/doi/10.1145/3808337)                                 |
 | Oct 20 | ----       | [Scheduling parallel programs by work stealing with private deques](https://dl.acm.org/doi/10.1145/2442516.2442538) |
 | Oct 27 | ----       | [Heartbeat scheduling: provable efficiency for nested parallelism](https://dl.acm.org/doi/10.1145/3192366.3192391)  |
-| Nov 3  | ----       | ---                                                                                                                 |
+| Nov 3  | ----       | [Disentanglement in nested-parallel programs](https://dl.acm.org/doi/10.1145/3371115)                               |
 | Nov 10 | ----       | ---                                                                                                                 |
 | Nov 17 | ----       | ---                                                                                                                 |
 | Nov 24 | ----       | ---                                                                                                                 |
